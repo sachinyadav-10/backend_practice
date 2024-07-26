@@ -1,0 +1,163 @@
+[
+    {
+      "course_id": "C001",
+      "title": "Introduction to Computer Science",
+      "description": "An overview of computer science principles and programming basics.",
+      "instructor_id": "I001",
+      "duration_weeks": 10,
+      "price": 100
+    },
+    {
+      "course_id": "C002",
+      "title": "Data Structures and Algorithms",
+      "description": "In-depth study of data structures, algorithms, and their applications.",
+      "instructor_id": "I002",
+      "duration_weeks": 12,
+      "price": 150
+    },
+    {
+      "course_id": "C003",
+      "title": "Web Development Bootcamp",
+      "description": "A comprehensive guide to full-stack web development using HTML, CSS, JavaScript, and backend technologies.",
+      "instructor_id": "I003",
+      "duration_weeks": 14,
+      "price": 200
+    },
+    {
+      "course_id": "C004",
+      "title": "Machine Learning Basics",
+      "description": "Introduction to machine learning concepts, algorithms, and real-world applications.",
+      "instructor_id": "I001",
+      "duration_weeks": 8,
+      "price": 180
+    },
+    {
+      "course_id": "C005",
+      "title": "Database Management Systems",
+      "description": "Fundamentals of database design, SQL, and database management.",
+      "instructor_id": "I004",
+      "duration_weeks": 10,
+      "price": 120
+    },
+    {
+      "course_id": "C006",
+      "title": "Mobile App Development",
+      "description": "Learn how to build mobile applications for Android and iOS.",
+      "instructor_id": "I005",
+      "duration_weeks": 12,
+      "price": 220
+    },
+    {
+      "course_id": "C007",
+      "title": "Cybersecurity Fundamentals",
+      "description": "An introduction to cybersecurity principles and practices.",
+      "instructor_id": "I006",
+      "duration_weeks": 10,
+      "price": 140
+    },
+    {
+      "course_id": "C008",
+      "title": "Cloud Computing",
+      "description": "Overview of cloud computing technologies, services, and deployment models.",
+      "instructor_id": "I007",
+      "duration_weeks": 8,
+      "price": 160
+    },
+    {
+      "course_id": "C009",
+      "title": "Artificial Intelligence",
+      "description": "Basics of artificial intelligence, including machine learning, neural networks, and AI applications.",
+      "instructor_id": "I008",
+      "duration_weeks": 12,
+      "price": 190
+    },
+    {
+      "course_id": "C010",
+      "title": "Big Data Analytics",
+      "description": "Techniques and tools for analyzing large datasets to extract insights and knowledge.",
+      "instructor_id": "I009",
+      "duration_weeks": 10,
+      "price": 170
+    },
+    {
+      "course_id": "C011",
+      "title": "Introduction to Python Programming",
+      "description": "Learn the basics of Python programming language and its applications.",
+      "instructor_id": "I010",
+      "duration_weeks": 8,
+      "price": 110
+    },
+    {
+      "course_id": "C012",
+      "title": "Advanced Java Programming",
+      "description": "Advanced concepts and techniques in Java programming.",
+      "instructor_id": "I011",
+      "duration_weeks": 12,
+      "price": 160
+    },
+    {
+      "course_id": "C013",
+      "title": "Network Security",
+      "description": "Comprehensive study of network security principles and practices.",
+      "instructor_id": "I012",
+      "duration_weeks": 10,
+      "price": 180
+    },
+    {
+      "course_id": "C014",
+      "title": "Blockchain Technology",
+      "description": "Introduction to blockchain technology and its applications.",
+      "instructor_id": "I013",
+      "duration_weeks": 8,
+      "price": 200
+    },
+    {
+      "course_id": "C015",
+      "title": "Game Development",
+      "description": "Learn how to develop games using popular game development frameworks.",
+      "instructor_id": "I014",
+      "duration_weeks": 14,
+      "price": 250
+    },
+    {
+      "course_id": "C016",
+      "title": "Digital Marketing",
+      "description": "Comprehensive guide to digital marketing strategies and tools.",
+      "instructor_id": "I015",
+      "duration_weeks": 10,
+      "price": 130
+    },
+    {
+      "course_id": "C017",
+      "title": "Project Management",
+      "description": "Learn the fundamentals of project management and its applications.",
+      "instructor_id": "I016",
+      "duration_weeks": 12,
+      "price": 140
+    },
+    {
+      "course_id": "C018",
+      "title": "Graphic Design",
+      "description": "Learn the principles and techniques of graphic design.",
+      "instructor_id": "I017",
+      "duration_weeks": 8,
+      "price": 120
+    },
+    {
+      "course_id": "C019",
+      "title": "Ethical Hacking",
+      "description": "Introduction to ethical hacking and penetration testing.",
+      "instructor_id": "I018",
+      "duration_weeks": 10,
+      "price": 170
+    },
+    {
+      "course_id": "C020",
+      "title": "Robotics",
+      "description": "Basics of robotics and its applications in various industries.",
+      "instructor_id": "I019",
+      "duration_weeks": 12,
+      "price": 210
+    }
+  ]
+
